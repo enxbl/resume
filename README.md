@@ -1,4 +1,4 @@
-Riley Dougherty
+# **Riley Dougherty**
 
 Oceanside, CA 
 
@@ -6,7 +6,7 @@ ena.xbl@gmail.com
 
 856-298-8684
 
-# **SUMMARY OF QUALIFICATIONS**
+## SUMMARY OF QUALIFICATIONS
 
 -   Excels in polite customer communication
 
@@ -18,31 +18,31 @@ ena.xbl@gmail.com
 
 -   Excels in efficiency.
 
-# **EDUCATION**
+## EDUCATION
 
 **MiraCosta College** (Oceanside, CA)                                      **Expected May 2027** *A.A. Computer Science for Transfer*
 
 **Relevant Coursework:**
 
-CS 112: This course delves deeper into java past the fundamentals, covering facets like inheritance, and polymorphism
+- CS 112: This course delves deeper into java past the fundamentals, covering facets like inheritance, and polymorphism
 
-MATH 150 - Calculus: This course covers advanced mathematical techniques like limits…
+- MATH 150 - Calculus: This course covers advanced mathematical techniques like limits…
 
 **El Camino High School** (Oceanside, CA)                                  **Graduated** **June 2025**
 
-High School diploma
+- High School diploma
 
 **Relevant Coursework:**
 
-A.P. CSP: This course covers the basics of coding, teaching through javascript.
+- A.P. CSP: This course covers the basics of coding, teaching through javascript.
 
-A.P. CSA: This course covers slightly more in depth facets of coding, teaching java.
+- A.P. CSA: This course covers slightly more in depth facets of coding, teaching java.
 
-# **EXPERIENCE**
+## EXPERIENCE
 
 N/A
 
-# **VOLUNTEER/LEADERSHIP EXPERIENCE**
+## VOLUNTEER/LEADERSHIP EXPERIENCE
 
 **El Camino High School GSA** **August 2022 – May 2025**
 
@@ -62,9 +62,9 @@ N/A
 
 -   *Helped distribute food to 50+ people weekly*
 
--   *Organized thousands of dollars worth of food total.4*
+-   *Organized thousands of dollars worth of food total.*
 
-# **SKILLS**
+## SKILLS
 
 **Software:** Google Drive, Krita, Parsec, OBS
 
