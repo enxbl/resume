@@ -1,5 +1,10 @@
 Riley Dougherty
-Oceanside, CA| Riley.Dougherty@gmail.com | 856-298-8684
+
+Oceanside, CA 
+
+ena.xbl@gmail.com 
+
+856-298-8684
 
 # **SUMMARY OF QUALIFICATIONS**
 
@@ -35,19 +40,11 @@ A.P. CSA: This course covers slightly more in depth facets of coding, teaching j
 
 # **EXPERIENCE**
 
-**North County LGBTQ Resource center**                                                       **May 2025-September 2025**
-
-*Volunteer*
-
--   *Assisted in the foodies and goodies program*
-
--   *Helped distribute food to 50+ people weekly*
-
--   *Organized thousands of dollars worth of food total.4*
+N/A
 
 # **VOLUNTEER/LEADERSHIP EXPERIENCE**
 
-# **El Camino High School GSA** **August 2022 – May 2025**
+**El Camino High School GSA** **August 2022 – May 2025**
 
 *Discord manager*
 
@@ -57,7 +54,15 @@ A.P. CSA: This course covers slightly more in depth facets of coding, teaching j
 
 -   Assisted in communication with club president
 
-#
+**North County LGBTQ Resource center**                                                       **May 2025-September 2025**
+
+*Volunteer*
+
+-   *Assisted in the foodies and goodies program*
+
+-   *Helped distribute food to 50+ people weekly*
+
+-   *Organized thousands of dollars worth of food total.4*
 
 # **SKILLS**
 
